@@ -3,7 +3,7 @@
 <h3 align="left">I am a Undergrad Computer Science Student.</h3>
 <img  src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg" alt="Coding">
 
-- 🔭 I’m currently working on **Game Project using JavaScript**
+- 🔭 I’m currently working on **Game Project using JavaScript and leanring App Development with React Native**
 
 - 💬 Ask me about **ReactJS, JavaScript, C++, Python**
 
