@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **ReactJS, JavaScript, C++, Python**
 
-- 📫 How to reach me **www.aakash7469@gmail.com**
-
 - ⚡ Fun fact **I am a car guy**
 
 <h3 align="left">Connect with me:</h3>
