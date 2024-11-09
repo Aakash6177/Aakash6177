@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Aakash</h1>
-<h3 align="left">I am Java Developer.</h3>
+<h3 align="left">I am a Developer.</h3>
 <img  src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg" alt="Coding">
 
 - 🔭 I’m currently working on **Microservice implementation using Kubernetes **
